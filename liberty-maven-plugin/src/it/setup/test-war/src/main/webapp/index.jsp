@@ -5,7 +5,7 @@
       <title>Hello IBM WebSphere Application Server Liberty</title>
   </head>
   <body>
-      <h2>Welcome to IBM Liberty</h2>
+      <h2>Welcome to IBM-xcombaba Liberty</h2>
       <p>Congratulations on running this very simple demo application on ${datetime}.</p>
   </body>
 </html>
